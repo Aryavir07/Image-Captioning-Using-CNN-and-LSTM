@@ -10,3 +10,5 @@ Description: https://github.com/jbrownlee/Datasets/releases/download/Flickr8k/Fl
 
 ### Model
 ![1_rfYN2EELhLvp2Van3Jo-Yw](https://user-images.githubusercontent.com/42632417/111032980-f8119600-8434-11eb-8dca-913f52e33d20.jpg)
+
+![download](https://user-images.githubusercontent.com/42632417/111032996-0c559300-8435-11eb-879e-75cca8d961c7.png)
