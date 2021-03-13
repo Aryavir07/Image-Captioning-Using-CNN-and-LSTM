@@ -7,3 +7,6 @@ Deep learning methods have demonstrated state-of-the-art results on caption gene
 
 Dataset: Flickr 8k : https://www.kaggle.com/adityajn105/flickr8k
 Description: https://github.com/jbrownlee/Datasets/releases/download/Flickr8k/Flickr8k_text.zip
+
+### Model
+![1_rfYN2EELhLvp2Van3Jo-Yw](https://user-images.githubusercontent.com/42632417/111032980-f8119600-8434-11eb-8dca-913f52e33d20.jpg)
