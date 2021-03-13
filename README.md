@@ -17,3 +17,7 @@ Description: https://github.com/jbrownlee/Datasets/releases/download/Flickr8k/Fl
 
 ### Final Results:
 ![download](https://user-images.githubusercontent.com/42632417/111033154-d5cc4800-8435-11eb-9654-6e6f2ae441b3.png)  ![download](https://user-images.githubusercontent.com/42632417/111033194-fbf1e800-8435-11eb-846a-61b5f2d4e1ec.png) 
+
+
+### Some Fails:
+
