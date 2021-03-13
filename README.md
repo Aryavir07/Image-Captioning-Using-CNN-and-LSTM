@@ -4,3 +4,6 @@ Caption generation is a challenging artificial intelligence problem where a text
 It requires both methods from computer vision to understand the content of the image and a language model from the field of natural language processing to turn the understanding of the image into words in the right order. Recently, deep learning methods have achieved state-of-the-art results on examples of this problem.
 
 Deep learning methods have demonstrated state-of-the-art results on caption generation problems. What is most impressive about these methods is a single end-to-end model can be defined to predict a caption, given a photo, instead of requiring sophisticated data preparation or a pipeline of specifically designed models.
+
+Dataset: Flickr 8k : https://www.kaggle.com/adityajn105/flickr8k
+Description: https://github.com/jbrownlee/Datasets/releases/download/Flickr8k/Flickr8k_text.zip
